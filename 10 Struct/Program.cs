@@ -236,6 +236,25 @@
                 Console.WriteLine("Wrong input");
             }
             */
+
+        
+        /*Math Class*/
+        static void Main(string[] args)
+        {
+            Console.WriteLine(Math.Ceiling(15.3));
+            Console.WriteLine(Math.Floor(15.3));
+
+            int num1 = 14;
+            int num2 = 3;
+            Console.WriteLine(Math.Min(num1, num2));
+            Console.WriteLine(Math.Max(num1, num2));
+
+            Console.WriteLine($"3 to power of 5 is {Math.Pow(3,5)}");
+            Console.WriteLine($"Pi is{Math.PI}");
+            Console.WriteLine($"Square root of 25: {Math.Sqrt(25)}");
+            Console.WriteLine($"Always positice is {Math.Abs(-25)}");
+            Console.WriteLine($"cos of 1 is {Math.Cos(1)}");
+        }
     }
 
 }
