@@ -232,7 +232,7 @@
             else
             { 
                 Console.WriteLine("Wrong input");
-            CannotUnloadAppDomainException }
+            }
         }
 
     }
