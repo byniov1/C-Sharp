@@ -188,9 +188,11 @@
         //}
         */
 
+
+        /*DateTime
         static void Main(string[] args)
         {
-            /*DateTime*/
+            
             //DateTime dateTime0 = new DateTime();
             //Console.WriteLine($"0 {dateTime0}");
 
@@ -233,7 +235,8 @@
             { 
                 Console.WriteLine("Wrong input");
             }
-        }
-
+            */
     }
+
 }
+
