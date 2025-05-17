@@ -237,8 +237,8 @@
             }
             */
 
-        
-        /*Math Class*/
+
+        /*Math Class
         static void Main(string[] args)
         {
             Console.WriteLine(Math.Ceiling(15.3));
@@ -255,6 +255,7 @@
             Console.WriteLine($"Always positice is {Math.Abs(-25)}");
             Console.WriteLine($"cos of 1 is {Math.Cos(1)}");
         }
+        */
     }
 
 }
