@@ -1,0 +1,14 @@
+C:\0 - Dysk D\Nauka\c#\c# Udemy\8 Inheritance\bin\Debug\net8.0\8 Inheritance.exe
+C:\0 - Dysk D\Nauka\c#\c# Udemy\8 Inheritance\bin\Debug\net8.0\8 Inheritance.deps.json
+C:\0 - Dysk D\Nauka\c#\c# Udemy\8 Inheritance\bin\Debug\net8.0\8 Inheritance.runtimeconfig.json
+C:\0 - Dysk D\Nauka\c#\c# Udemy\8 Inheritance\bin\Debug\net8.0\8 Inheritance.dll
+C:\0 - Dysk D\Nauka\c#\c# Udemy\8 Inheritance\bin\Debug\net8.0\8 Inheritance.pdb
+C:\0 - Dysk D\Nauka\c#\c# Udemy\8 Inheritance\obj\Debug\net8.0\8 Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\0 - Dysk D\Nauka\c#\c# Udemy\8 Inheritance\obj\Debug\net8.0\8 Inheritance.AssemblyInfoInputs.cache
+C:\0 - Dysk D\Nauka\c#\c# Udemy\8 Inheritance\obj\Debug\net8.0\8 Inheritance.AssemblyInfo.cs
+C:\0 - Dysk D\Nauka\c#\c# Udemy\8 Inheritance\obj\Debug\net8.0\8 Inheritance.csproj.CoreCompileInputs.cache
+C:\0 - Dysk D\Nauka\c#\c# Udemy\8 Inheritance\obj\Debug\net8.0\8 Inheritance.dll
+C:\0 - Dysk D\Nauka\c#\c# Udemy\8 Inheritance\obj\Debug\net8.0\refint\8 Inheritance.dll
+C:\0 - Dysk D\Nauka\c#\c# Udemy\8 Inheritance\obj\Debug\net8.0\8 Inheritance.pdb
+C:\0 - Dysk D\Nauka\c#\c# Udemy\8 Inheritance\obj\Debug\net8.0\8 Inheritance.genruntimeconfig.cache
+C:\0 - Dysk D\Nauka\c#\c# Udemy\8 Inheritance\obj\Debug\net8.0\ref\8 Inheritance.dll

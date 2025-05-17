@@ -1,0 +1,42 @@
+C:\1 Nauka\Nauka Git\c#\OOP\bin\Debug\net8.0\OOP.exe
+C:\1 Nauka\Nauka Git\c#\OOP\bin\Debug\net8.0\OOP.deps.json
+C:\1 Nauka\Nauka Git\c#\OOP\bin\Debug\net8.0\OOP.runtimeconfig.json
+C:\1 Nauka\Nauka Git\c#\OOP\bin\Debug\net8.0\OOP.dll
+C:\1 Nauka\Nauka Git\c#\OOP\bin\Debug\net8.0\OOP.pdb
+C:\1 Nauka\Nauka Git\c#\OOP\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\1 Nauka\Nauka Git\c#\OOP\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+C:\1 Nauka\Nauka Git\c#\OOP\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+C:\1 Nauka\Nauka Git\c#\OOP\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
+C:\1 Nauka\Nauka Git\c#\OOP\obj\Debug\net8.0\OOP.dll
+C:\1 Nauka\Nauka Git\c#\OOP\obj\Debug\net8.0\refint\OOP.dll
+C:\1 Nauka\Nauka Git\c#\OOP\obj\Debug\net8.0\OOP.pdb
+C:\1 Nauka\Nauka Git\c#\OOP\obj\Debug\net8.0\OOP.genruntimeconfig.cache
+C:\1 Nauka\Nauka Git\c#\OOP\obj\Debug\net8.0\ref\OOP.dll
+C:\0 - Dysk D\Nauka\c#\OOP\bin\Debug\net8.0\OOP.exe
+C:\0 - Dysk D\Nauka\c#\OOP\bin\Debug\net8.0\OOP.deps.json
+C:\0 - Dysk D\Nauka\c#\OOP\bin\Debug\net8.0\OOP.runtimeconfig.json
+C:\0 - Dysk D\Nauka\c#\OOP\bin\Debug\net8.0\OOP.dll
+C:\0 - Dysk D\Nauka\c#\OOP\bin\Debug\net8.0\OOP.pdb
+C:\0 - Dysk D\Nauka\c#\OOP\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\0 - Dysk D\Nauka\c#\OOP\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+C:\0 - Dysk D\Nauka\c#\OOP\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+C:\0 - Dysk D\Nauka\c#\OOP\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
+C:\0 - Dysk D\Nauka\c#\OOP\obj\Debug\net8.0\OOP.dll
+C:\0 - Dysk D\Nauka\c#\OOP\obj\Debug\net8.0\refint\OOP.dll
+C:\0 - Dysk D\Nauka\c#\OOP\obj\Debug\net8.0\OOP.pdb
+C:\0 - Dysk D\Nauka\c#\OOP\obj\Debug\net8.0\OOP.genruntimeconfig.cache
+C:\0 - Dysk D\Nauka\c#\OOP\obj\Debug\net8.0\ref\OOP.dll
+c:\0 - Dysk D\Nauka\c#\c# Udemy\OOP\bin\Debug\net8.0\OOP.exe
+C:\0 - Dysk D\Nauka\c#\c# Udemy\OOP\bin\Debug\net8.0\OOP.deps.json
+C:\0 - Dysk D\Nauka\c#\c# Udemy\OOP\bin\Debug\net8.0\OOP.runtimeconfig.json
+c:\0 - Dysk D\Nauka\c#\c# Udemy\OOP\bin\Debug\net8.0\OOP.dll
+c:\0 - Dysk D\Nauka\c#\c# Udemy\OOP\bin\Debug\net8.0\OOP.pdb
+c:\0 - Dysk D\Nauka\c#\c# Udemy\OOP\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+c:\0 - Dysk D\Nauka\c#\c# Udemy\OOP\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+c:\0 - Dysk D\Nauka\c#\c# Udemy\OOP\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+c:\0 - Dysk D\Nauka\c#\c# Udemy\OOP\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
+c:\0 - Dysk D\Nauka\c#\c# Udemy\OOP\obj\Debug\net8.0\OOP.dll
+c:\0 - Dysk D\Nauka\c#\c# Udemy\OOP\obj\Debug\net8.0\refint\OOP.dll
+c:\0 - Dysk D\Nauka\c#\c# Udemy\OOP\obj\Debug\net8.0\OOP.pdb
+C:\0 - Dysk D\Nauka\c#\c# Udemy\OOP\obj\Debug\net8.0\OOP.genruntimeconfig.cache
+C:\0 - Dysk D\Nauka\c#\c# Udemy\OOP\obj\Debug\net8.0\ref\OOP.dll

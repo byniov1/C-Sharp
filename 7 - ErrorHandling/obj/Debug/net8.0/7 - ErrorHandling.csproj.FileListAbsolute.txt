@@ -1,0 +1,14 @@
+c:\0 - Dysk D\Nauka\c#\c# Udemy\7 - ErrorHandling\bin\Debug\net8.0\7 - ErrorHandling.exe
+C:\0 - Dysk D\Nauka\c#\c# Udemy\7 - ErrorHandling\bin\Debug\net8.0\7 - ErrorHandling.deps.json
+C:\0 - Dysk D\Nauka\c#\c# Udemy\7 - ErrorHandling\bin\Debug\net8.0\7 - ErrorHandling.runtimeconfig.json
+c:\0 - Dysk D\Nauka\c#\c# Udemy\7 - ErrorHandling\bin\Debug\net8.0\7 - ErrorHandling.dll
+c:\0 - Dysk D\Nauka\c#\c# Udemy\7 - ErrorHandling\bin\Debug\net8.0\7 - ErrorHandling.pdb
+c:\0 - Dysk D\Nauka\c#\c# Udemy\7 - ErrorHandling\obj\Debug\net8.0\7 - ErrorHandling.GeneratedMSBuildEditorConfig.editorconfig
+c:\0 - Dysk D\Nauka\c#\c# Udemy\7 - ErrorHandling\obj\Debug\net8.0\7 - ErrorHandling.AssemblyInfoInputs.cache
+c:\0 - Dysk D\Nauka\c#\c# Udemy\7 - ErrorHandling\obj\Debug\net8.0\7 - ErrorHandling.AssemblyInfo.cs
+c:\0 - Dysk D\Nauka\c#\c# Udemy\7 - ErrorHandling\obj\Debug\net8.0\7 - ErrorHandling.csproj.CoreCompileInputs.cache
+c:\0 - Dysk D\Nauka\c#\c# Udemy\7 - ErrorHandling\obj\Debug\net8.0\7 - ErrorHandling.dll
+c:\0 - Dysk D\Nauka\c#\c# Udemy\7 - ErrorHandling\obj\Debug\net8.0\refint\7 - ErrorHandling.dll
+c:\0 - Dysk D\Nauka\c#\c# Udemy\7 - ErrorHandling\obj\Debug\net8.0\7 - ErrorHandling.pdb
+C:\0 - Dysk D\Nauka\c#\c# Udemy\7 - ErrorHandling\obj\Debug\net8.0\7 - ErrorHandling.genruntimeconfig.cache
+C:\0 - Dysk D\Nauka\c#\c# Udemy\7 - ErrorHandling\obj\Debug\net8.0\ref\7 - ErrorHandling.dll
